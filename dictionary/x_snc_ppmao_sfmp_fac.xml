@@ -28,43 +28,69 @@
             </choice>
         </element>
         <element choice="1" label="2.3" max_length="40" name="u_2_3" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="3.1" max_length="40" name="u_3_1" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="3.2" max_length="40" name="u_3_2" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="3.3" max_length="40" name="u_3_3" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="4.1" max_length="40" name="u_4_1" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="4.2" max_length="40" name="u_4_2" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="4.3" max_length="40" name="u_4_3" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="5.1" max_length="40" name="u_5_1" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="5.2" max_length="40" name="u_5_2" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="5.3" max_length="40" name="u_5_3" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="6.1" max_length="40" name="u_6_1" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="6.2" max_length="40" name="u_6_2" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <element choice="1" label="6.3" max_length="40" name="u_6_3" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="X" value="x"/>
+            </choice>
         </element>
         <index name="index">
             <element name="project"/>

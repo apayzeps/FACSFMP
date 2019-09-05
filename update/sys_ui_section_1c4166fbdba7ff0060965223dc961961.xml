@@ -3,75 +3,75 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-05 15:08:19</sys_created_on>
-            <sys_id>47160f44db7b334060965223dc961974</sys_id>
+            <sys_created_on>2019-09-05 17:59:53</sys_created_on>
+            <sys_id>906d2380db3f334060965223dc9619b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-05 15:08:19</sys_updated_on>
+            <sys_updated_on>2019-09-05 17:59:53</sys_updated_on>
             <text>1.1 Provide capability for Mission Growth and Change</text>
             <type display_value="Text">863e446c0fd30000b12e6903cfe012ce</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-05 15:08:19</sys_created_on>
-            <sys_id>8f160f44db7b334060965223dc961974</sys_id>
+            <sys_created_on>2019-09-05 17:59:53</sys_created_on>
+            <sys_id>946d2380db3f334060965223dc9619b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-05 15:08:19</sys_updated_on>
+            <sys_updated_on>2019-09-05 17:59:53</sys_updated_on>
             <text>1.2 Leverage strength of diverse directorate and intelligence partners to find cooperative facilities solutions</text>
             <type display_value="Text">863e446c0fd30000b12e6903cfe012ce</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-05 15:08:19</sys_created_on>
-            <sys_id>83160f44db7b334060965223dc961975</sys_id>
+            <sys_created_on>2019-09-05 17:59:53</sys_created_on>
+            <sys_id>986d2380db3f334060965223dc9619b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-05 15:08:19</sys_updated_on>
+            <sys_updated_on>2019-09-05 17:59:53</sys_updated_on>
             <text>1.3 Foster a collaborative IC environment - internal and external</text>
             <type display_value="Text">863e446c0fd30000b12e6903cfe012ce</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>47160f44db7b334060965223dc961974</element>
+            <element>906d2380db3f334060965223dc9619b1</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-05 15:08:19</sys_created_on>
-            <sys_id>47160f44db7b334060965223dc961975</sys_id>
+            <sys_created_on>2019-09-05 17:59:53</sys_created_on>
+            <sys_id>5c6d2380db3f334060965223dc9619b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="#1 Enhanced Mission Readiness" display_value="#1 Enhanced Mission Readiness" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">1c4166fbdba7ff0060965223dc961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-05 15:08:19</sys_updated_on>
+            <sys_updated_on>2019-09-05 17:59:53</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>8f160f44db7b334060965223dc961974</element>
+            <element>946d2380db3f334060965223dc9619b1</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-05 15:08:19</sys_created_on>
-            <sys_id>c7160f44db7b334060965223dc961975</sys_id>
+            <sys_created_on>2019-09-05 17:59:53</sys_created_on>
+            <sys_id>dc6d2380db3f334060965223dc9619b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="#1 Enhanced Mission Readiness" display_value="#1 Enhanced Mission Readiness" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">1c4166fbdba7ff0060965223dc961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-05 15:08:19</sys_updated_on>
+            <sys_updated_on>2019-09-05 17:59:53</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>83160f44db7b334060965223dc961975</element>
+            <element>986d2380db3f334060965223dc9619b1</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-05 15:08:19</sys_created_on>
-            <sys_id>03160f44db7b334060965223dc961982</sys_id>
+            <sys_created_on>2019-09-05 17:59:53</sys_created_on>
+            <sys_id>506d2380db3f334060965223dc9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="#1 Enhanced Mission Readiness" display_value="#1 Enhanced Mission Readiness" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">1c4166fbdba7ff0060965223dc961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-05 15:08:19</sys_updated_on>
+            <sys_updated_on>2019-09-05 17:59:53</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -79,13 +79,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-05 15:08:19</sys_created_on>
-            <sys_id>83160f44db7b334060965223dc961982</sys_id>
+            <sys_created_on>2019-09-05 17:59:53</sys_created_on>
+            <sys_id>d06d2380db3f334060965223dc9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="#1 Enhanced Mission Readiness" display_value="#1 Enhanced Mission Readiness" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">1c4166fbdba7ff0060965223dc961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-05 15:08:19</sys_updated_on>
+            <sys_updated_on>2019-09-05 17:59:53</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -93,13 +93,13 @@
             <element>u_1_1</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-05 15:08:19</sys_created_on>
-            <sys_id>07160f44db7b334060965223dc961982</sys_id>
+            <sys_created_on>2019-09-05 17:59:53</sys_created_on>
+            <sys_id>546d2380db3f334060965223dc9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="#1 Enhanced Mission Readiness" display_value="#1 Enhanced Mission Readiness" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">1c4166fbdba7ff0060965223dc961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-05 15:08:19</sys_updated_on>
+            <sys_updated_on>2019-09-05 17:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -107,13 +107,13 @@
             <element>u_1_2</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-05 15:08:19</sys_created_on>
-            <sys_id>87160f44db7b334060965223dc961982</sys_id>
+            <sys_created_on>2019-09-05 17:59:53</sys_created_on>
+            <sys_id>d46d2380db3f334060965223dc9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="#1 Enhanced Mission Readiness" display_value="#1 Enhanced Mission Readiness" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">1c4166fbdba7ff0060965223dc961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-05 15:08:19</sys_updated_on>
+            <sys_updated_on>2019-09-05 17:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -121,13 +121,13 @@
             <element>u_1_3</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-05 15:08:19</sys_created_on>
-            <sys_id>0b160f44db7b334060965223dc961982</sys_id>
+            <sys_created_on>2019-09-05 17:59:53</sys_created_on>
+            <sys_id>586d2380db3f334060965223dc9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="#1 Enhanced Mission Readiness" display_value="#1 Enhanced Mission Readiness" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">1c4166fbdba7ff0060965223dc961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-05 15:08:19</sys_updated_on>
+            <sys_updated_on>2019-09-05 17:59:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
