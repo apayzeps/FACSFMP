@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="5041a6fbdba7ff0060965223dc96198e" sys_domain="global" table="x_snc_ppmao_sfmp_fac" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-04 17:48:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5841a6fbdba7ff0060965223dc961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_ppmao_sfmp_fac" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">5041a6fbdba7ff0060965223dc96198e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">079df1b3db27ff0060965223dc961976</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-04 17:48:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-04 17:48:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5441a6fbdba7ff0060965223dc961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_ppmao_sfmp_fac" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">5041a6fbdba7ff0060965223dc96198e</sys_ui_form>
+            <sys_ui_section caption="#1 Enhanced Mission Readiness" display_value="#1 Enhanced Mission Readiness" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">1c4166fbdba7ff0060965223dc961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-04 17:48:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-04 17:48:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6041a6fbdba7ff0060965223dc961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_ppmao_sfmp_fac" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">5041a6fbdba7ff0060965223dc96198e</sys_ui_form>
+            <sys_ui_section caption="#2 Optimize Physical Assets" display_value="#2 Optimize Physical Assets" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">1441a6fbdba7ff0060965223dc96198d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-04 17:48:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-05 15:08:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32160f44db7b334060965223dc961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_ppmao_sfmp_fac" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">5041a6fbdba7ff0060965223dc96198e</sys_ui_form>
+            <sys_ui_section caption="3.0 Provide a Secure &amp; Safe Environment" display_value="3.0 Provide a Secure &amp; Safe Environment" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">32160f44db7b334060965223dc96192c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-05 15:08:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-05 15:08:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2160f44db7b334060965223dc961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_ppmao_sfmp_fac" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">5041a6fbdba7ff0060965223dc96198e</sys_ui_form>
+            <sys_ui_section caption="4.0 Enhanced Quality of Life" display_value="4.0 Enhanced Quality of Life" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">be160f44db7b334060965223dc96192c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-05 15:08:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-05 15:08:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2160f44db7b334060965223dc961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_ppmao_sfmp_fac" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">5041a6fbdba7ff0060965223dc96198e</sys_ui_form>
+            <sys_ui_section caption="5.0 Enhanced Resiliency" display_value="5.0 Enhanced Resiliency" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">f6160f44db7b334060965223dc96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-05 15:08:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-05 15:08:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32160f44db7b334060965223dc96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_ppmao_sfmp_fac" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">5041a6fbdba7ff0060965223dc96198e</sys_ui_form>
+            <sys_ui_section caption="6.0 Leverage Technology" display_value="6.0 Leverage Technology" name="x_snc_ppmao_sfmp_fac" sys_domain="global" view="Default view">32160f44db7b334060965223dc96192e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-05 15:08:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_ppmao_sfmp_fac</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-04 17:48:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5041a6fbdba7ff0060965223dc96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_ppmao_sfmp_fac</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="FAC SFMP" source="x_snc_ppmao">3556b5b7db63ff0060965223dc96192f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FAC SFMP">3556b5b7db63ff0060965223dc96192f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_5041a6fbdba7ff0060965223dc96198e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-04 17:48:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

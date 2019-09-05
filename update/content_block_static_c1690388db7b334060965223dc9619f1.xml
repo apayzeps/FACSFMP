@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_static">
+    <content_block_static action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>FAC SFMP 1.0</name>
+        <static_content><![CDATA[<p><span style="font-size: 14pt;"><strong>1.0 Planning Goal &amp; Objective #1: Enhanced Mission Readiness</strong></span></p>]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 15:24:01</sys_created_on>
+        <sys_id>c1690388db7b334060965223dc9619f1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>FAC SFMP 1.0</sys_name>
+        <sys_package display_value="FAC SFMP" source="x_snc_ppmao">3556b5b7db63ff0060965223dc96192f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FAC SFMP">3556b5b7db63ff0060965223dc96192f</sys_scope>
+        <sys_update_name>content_block_static_c1690388db7b334060965223dc9619f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 15:35:28</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="delete_multiple" query="documentkey=c1690388db7b334060965223dc9619f1"/>
+</record_update>

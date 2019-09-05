@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_5_2" label="5.2" language="en" table="x_snc_ppmao_sfmp_fac">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_5_2</element>
+            <help/>
+            <hint/>
+            <label>5.2</label>
+            <language>en</language>
+            <name>x_snc_ppmao_sfmp_fac</name>
+            <plural>5.2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-05 00:36:47</sys_created_on>
+            <sys_id>10aef777db2fff001771f7b51d96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>5.2</sys_name>
+            <sys_package display_value="FAC SFMP" source="x_snc_ppmao">3556b5b7db63ff0060965223dc96192f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FAC SFMP">3556b5b7db63ff0060965223dc96192f</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ppmao_sfmp_fac_u_5_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-05 00:36:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

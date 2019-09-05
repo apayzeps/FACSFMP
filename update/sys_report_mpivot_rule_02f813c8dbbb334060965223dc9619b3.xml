@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_mpivot_rule">
+    <sys_report_mpivot_rule action="INSERT_OR_UPDATE">
+        <bg_color>background-color:</bg_color>
+        <bg_color_id/>
+        <color>background-color:#FFFF00</color>
+        <color_id display_value="Yellow">65b303c7a9fe3dba000882c19631a889</color_id>
+        <operator>between</operator>
+        <order>2</order>
+        <report_id display_value="1.2 Average Project % Complete">35f813c8dbbb334060965223dc961955</report_id>
+        <sys_class_name>sys_report_mpivot_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 16:30:43</sys_created_on>
+        <sys_id>02f813c8dbbb334060965223dc9619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>between</sys_name>
+        <sys_package display_value="FAC SFMP" source="x_snc_ppmao">3556b5b7db63ff0060965223dc96192f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FAC SFMP">3556b5b7db63ff0060965223dc96192f</sys_scope>
+        <sys_update_name>sys_report_mpivot_rule_02f813c8dbbb334060965223dc9619b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 16:30:43</sys_updated_on>
+        <value1>50</value1>
+        <value2>80</value2>
+    </sys_report_mpivot_rule>
+</record_update>
