@@ -4,19 +4,19 @@
         <height>3</height>
         <portal_widget display_value="Created 09-05-2019 12:41:03">e15b1b4cdbbb334060965223dc96193e</portal_widget>
         <posx>0</posx>
-        <posy>15</posy>
+        <posy>16</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-05 16:41:03</sys_created_on>
         <sys_id>a95b1b4cdbbb334060965223dc96193f</sys_id>
-        <sys_mod_count>42</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_name>a3b84748db7b334060965223dc961978</sys_name>
         <sys_package display_value="FAC SFMP" source="x_snc_ppmao">3556b5b7db63ff0060965223dc96192f</sys_package>
         <sys_policy/>
         <sys_scope display_value="FAC SFMP">3556b5b7db63ff0060965223dc96192f</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_a95b1b4cdbbb334060965223dc96193f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-06 00:58:01</sys_updated_on>
+        <sys_updated_on>2019-09-06 10:24:13</sys_updated_on>
         <width>12</width>
     </sys_grid_canvas_pane>
 </record_update>

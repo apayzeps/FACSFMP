@@ -6,20 +6,20 @@
         <conditional>false</conditional>
         <frame/>
         <logged_on>false</logged_on>
-        <name>FAC SFMP 2.3</name>
-        <static_content><![CDATA[<p><span style="font-size: 14pt;"><strong>2.3 Upgrade and optimize facilities and infrastructure</strong></span></p>]]></static_content>
+        <name>FAC SFMP 1.1</name>
+        <static_content><![CDATA[<p><span style="font-size: 14pt;"><strong>1.1 Provide capability for mission growth and change</strong></span></p>]]></static_content>
         <sys_class_name>content_block_static</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-06 00:50:16</sys_created_on>
-        <sys_id>eb4b099cdb7373401771f7b51d961953</sys_id>
+        <sys_created_on>2019-09-06 10:23:16</sys_created_on>
+        <sys_id>157ecf94dbbb734060965223dc96191a</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>FAC SFMP 2.3</sys_name>
+        <sys_name>FAC SFMP 1.1</sys_name>
         <sys_package display_value="FAC SFMP" source="x_snc_ppmao">3556b5b7db63ff0060965223dc96192f</sys_package>
         <sys_policy/>
         <sys_scope display_value="FAC SFMP">3556b5b7db63ff0060965223dc96192f</sys_scope>
-        <sys_update_name>content_block_static_eb4b099cdb7373401771f7b51d961953</sys_update_name>
+        <sys_update_name>content_block_static_157ecf94dbbb734060965223dc96191a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-06 10:29:27</sys_updated_on>
+        <sys_updated_on>2019-09-06 10:26:15</sys_updated_on>
     </content_block_static>
-    <sys_translated_text action="delete_multiple" query="documentkey=eb4b099cdb7373401771f7b51d961953"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=157ecf94dbbb734060965223dc96191a"/>
 </record_update>
