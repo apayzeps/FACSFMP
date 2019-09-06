@@ -2,21 +2,21 @@
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA New Tab 2">a3b84748db7b334060965223dc961978</grid_canvas>
         <height>3</height>
-        <portal_widget display_value="Created 09-05-2019 12:20:21">46969308dbbb334060965223dc96199d</portal_widget>
+        <portal_widget display_value="Created 09-05-2019 20:51:02">767b899cdb7373401771f7b51d96192a</portal_widget>
         <posx>0</posx>
-        <posy>9</posy>
+        <posy>24</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-05 16:20:21</sys_created_on>
-        <sys_id>9a969308dbbb334060965223dc96199f</sys_id>
-        <sys_mod_count>53</sys_mod_count>
+        <sys_created_on>2019-09-06 00:51:02</sys_created_on>
+        <sys_id>367b899cdb7373401771f7b51d96192d</sys_id>
+        <sys_mod_count>34</sys_mod_count>
         <sys_name>a3b84748db7b334060965223dc961978</sys_name>
         <sys_package display_value="FAC SFMP" source="x_snc_ppmao">3556b5b7db63ff0060965223dc96192f</sys_package>
         <sys_policy/>
         <sys_scope display_value="FAC SFMP">3556b5b7db63ff0060965223dc96192f</sys_scope>
-        <sys_update_name>sys_grid_canvas_pane_9a969308dbbb334060965223dc96199f</sys_update_name>
+        <sys_update_name>sys_grid_canvas_pane_367b899cdb7373401771f7b51d96192d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-06 00:58:01</sys_updated_on>
+        <sys_updated_on>2019-09-06 00:58:00</sys_updated_on>
         <width>8</width>
     </sys_grid_canvas_pane>
 </record_update>
